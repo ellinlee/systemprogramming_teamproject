@@ -158,7 +158,7 @@ gcc -o client3 pir.c -lpthread -lwiringPi
 - Kim Haechan: RPi 3, RPi4 Support, Model Design and Creation, Presentation, Socket Communication Environment Setting
 - Lee Eunchae: RPi 1, RPi4, Proposal Writing, Final PPT, Gitlab Management, MoM Management
 - Lee Eun: RPi 2, RPi4 Support, **Captain**, Proposal Writing, Final PPT
-- Song InKyung: RPi 4 Support, Proposal Writing
+- Song InKyung: RPi 4, Proposal Writing
 
 ## Question
 If you have any question about this project, feel free to reach out us!
